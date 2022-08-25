@@ -5,7 +5,7 @@ name: for my girl daily morning
 # Controls when the workflow will run
 on:
   schedule:
-  - cron:  '0 1 * * *'
+  - cron:  '40 1 * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
